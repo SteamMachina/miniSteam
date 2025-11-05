@@ -12,3 +12,4 @@
 - npm install pg
 - npm install --save-dev @types/pg
 - npm i --save-dev @types/swagger-jsdoc
+  npx ts-node seed-mongodb.ts (pour populer la mongodb)

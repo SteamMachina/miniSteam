@@ -12,6 +12,6 @@
     "resolveJsonModule": true,
     "moduleResolution": "node"
   },
-  "include": ["**/*.ts", "tests/routes.test.ts"],
+  "include": ["**/*.ts", "tests/routes.test.ts", "2-models/wishlists"],
   "exclude": ["node_modules", "dist"]
 }
